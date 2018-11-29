@@ -1,0 +1,34 @@
+<templateSet group="zhibi">
+  <template name="test" value="@Test&#10;public void test$VAR1$(){&#10;    $END$&#10;}" description="生成一个测试方法" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+    </context>
+  </template>
+  <template name="ps" value="/**&#10; * $END$&#10; */&#10;private String $VAR$;&#10;" description="private String" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+    </context>
+  </template>
+  <template name="pi" value="/**&#10; * $END$&#10; */&#10;private Integer $VAR$;" description="private Integer" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pl" value="/**&#10; * $END$&#10; */&#10; private Long $VAR$;" description="private Long" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pd" value="/**&#10; * $END$&#10; */&#10;private Double $VAR$;" description="private Double" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

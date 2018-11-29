@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add rule">
+        <Item>
+          <IdeaActionID>Arrangement.Rule.Add</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>Add rule</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
@@ -47,6 +55,22 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move down">
+        <Item>
+          <IdeaActionID>Arrangement.Rule.Match.Condition.Move.Down</IdeaActionID>
+          <ShortCut>'Alt+向下箭头'</ShortCut>
+          <Description>Move down</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move up">
+        <Item>
+          <IdeaActionID>Arrangement.Rule.Match.Condition.Move.Up</IdeaActionID>
+          <ShortCut>'Alt+向上箭头'</ShortCut>
+          <Description>Move up</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -142,7 +166,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Translation Dialog...">
