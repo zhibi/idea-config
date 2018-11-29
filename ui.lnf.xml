@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+  </component>
+</application>
