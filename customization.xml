@@ -1,5 +1,10 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group seperator="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NavBarToolBarOthers" is_group="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -16,11 +21,6 @@
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="Translation Toolbar Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Tool_External Tools_启动mysql" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Git.Fetch" is_action="true" action_type="1" position="4">
