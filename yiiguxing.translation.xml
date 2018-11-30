@@ -64,6 +64,5 @@
   <component name="Settings">
     <option name="autoReplace" value="true" />
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
