@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="电源" />
       <item value="床" />
       <item value="volatile" />
       <item value="Compressor" />
@@ -50,12 +51,11 @@
       <item value="DIAGNOSTIC" />
       <item value="命令" />
       <item value="小臂" />
-      <item value="方法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="46" />
         <entry key="DUTCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
