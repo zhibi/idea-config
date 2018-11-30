@@ -3,7 +3,7 @@
     <property name="created">2018-11-30T11:57:23</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.7.0.0</property>
-    <property name="modified">2018-11-30T13:01:34</property>
+    <property name="modified">2018-11-30T15:34:24</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -19,22 +19,27 @@
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bdc648" />
+        <option name="FOREGROUND" value="c5c887" />
       </value>
     </option>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bdc648" />
+        <option name="FOREGROUND" value="c5c887" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c5c887" />
       </value>
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bdc648" />
+        <option name="FOREGROUND" value="c5c887" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bdc648" />
+        <option name="FOREGROUND" value="c5c887" />
       </value>
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
