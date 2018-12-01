@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="html" type="FTL" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="city" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

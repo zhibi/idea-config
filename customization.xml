@@ -1,0 +1,41 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group seperator="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBarToolBarOthers" is_group="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangesView.Revert" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$ShowInstantTranslationDialogAction" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Translation Toolbar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Fetch" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Push" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
