@@ -1,6 +1,0 @@
-<application>
-  <component name="GDPHSettings">
-    <option name="useMavenIndex" value="true" />
-    <option name="useNexus" value="true" />
-  </component>
-</application>
