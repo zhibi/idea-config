@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aggregate" />
       <item value="maximum number of integral digits accepted for this number" />
       <item value="The annotated element must be a number within accepted range" />
       <item value="maximum number of fractional digits accepted for this number" />
@@ -50,12 +51,11 @@
       <item value="* Given a trie, returns the &quot;completion list&quot; for a prefix, i.e. all the leaf nodes in the * trie whose words start with this prefix. * For instance, if the trie had the words &quot;bear&quot;, &quot;bull&quot;, &quot;stock&quot;, and &quot;bell&quot;, * the completion list for prefix &quot;b&quot; would be the leaf nodes that hold &quot;bear&quot;, &quot;bull&quot;, and &quot;bell&quot;; * for prefix &quot;be&quot;, the completion would be the leaf nodes that hold &quot;bear&quot; and &quot;bell&quot;, * and for prefix &quot;bell&quot;, completion would be the leaf node that holds &quot;bell&quot;. * (The last example shows that an input prefix can be an entire word.) * The order of returned leaf nodes DOES NOT MATTER. So, for prefix &quot;be&quot;, * the returned list of leaf nodes can be either hold [bear,bell] or [bell,bear]." />
       <item value="MODIFY IT AS NEEDED FOR YOUR IMPLEMENTATION" />
       <item value="FOLLOWING LINE IS A PLACEHOLDER TO ENSURE COMPILATION" />
-      <item value="* Builds a trie by inserting all words in the input array, one at a time, * in sequence FROM FIRST TO LAST. (The sequence is IMPORTANT!) * The words in the input array are all lower case." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="DUTCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
