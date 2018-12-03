@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specifies whether the specified maximum is inclusive or exclusive. * By default, it is inclusive." />
+      <item value="* Specifies whether the specified maximum is inclusive or exclusive. * By default, it is inclusive." />
       <item value="电源" />
       <item value="床" />
       <item value="volatile" />
@@ -49,13 +51,11 @@
       <item value="A granted authority textual representation is required" />
       <item value="te" />
       <item value="DIAGNOSTIC" />
-      <item value="命令" />
-      <item value="小臂" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="DUTCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
