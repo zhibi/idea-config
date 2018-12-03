@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="maximum number of integral digits accepted for this number" />
+      <item value="The annotated element must be a number within accepted range" />
+      <item value="maximum number of fractional digits accepted for this number" />
       <item value="Specifies whether the specified maximum is inclusive or exclusive. * By default, it is inclusive." />
       <item value="* Specifies whether the specified maximum is inclusive or exclusive. * By default, it is inclusive." />
       <item value="电源" />
@@ -48,14 +51,11 @@
       <item value="MODIFY IT AS NEEDED FOR YOUR IMPLEMENTATION" />
       <item value="FOLLOWING LINE IS A PLACEHOLDER TO ENSURE COMPILATION" />
       <item value="* Builds a trie by inserting all words in the input array, one at a time, * in sequence FROM FIRST TO LAST. (The sequence is IMPORTANT!) * The words in the input array are all lower case." />
-      <item value="A granted authority textual representation is required" />
-      <item value="te" />
-      <item value="DIAGNOSTIC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="DUTCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
