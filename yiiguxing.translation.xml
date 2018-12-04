@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sequence" />
+      <item value="Allocate bits for UID according to delta seconds &amp; workerId &amp; sequence&lt;br&gt;" />
+      <item value="Get next millisecond" />
+      <item value="Allocate bits for UID" />
+      <item value="Clock moved backwards, refuse to generate uid" />
       <item value="make sure allocated 64 bits" />
       <item value="The highest bit used for sign" />
       <item value="Constructor with timestampBits, workerIdBits, sequenceBits&lt;br&gt;" />
@@ -46,16 +51,11 @@
       <item value="The horizontal alignment is centered, meaning the text is centered across the cell." />
       <item value="* Set the row's height or set to ff (-1) for undefined/default-height. Set the height in &quot;twips&quot; or * 1/20th of a point. * * @param height rowheight or 0xff for undefined (use sheet default)" />
       <item value="verify" />
-      <item value="Duplicate" />
-      <item value="* Helps with configuring HandlerMappings path matching options such as trailing slash match, * suffix registration, path matcher and path helper. * Configured path matcher and path helper instances are shared for:" />
-      <item value="launch" />
-      <item value="lunch" />
-      <item value="receive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="DUTCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
