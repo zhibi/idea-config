@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="信用" />
+      <item value="register" />
       <item value="卖" />
       <item value="买" />
       <item value="DECEMBER" />
@@ -49,13 +51,11 @@
       <item value="the column (0 based) of the first cell." />
       <item value="Extended" />
       <item value="spec" />
-      <item value="/** * Creates a picture. * @param anchor the client anchor describes how this picture is * attached to the sheet. * @param pictureIndex the index of the picture in the workbook collection * of pictures. * * @return the newly created picture." />
-      <item value="wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="82" />
         <entry key="DUTCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
