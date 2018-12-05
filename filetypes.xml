@@ -1,11 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="html" type="FTL" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="city" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
