@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="卖" />
+      <item value="买" />
+      <item value="DECEMBER" />
+      <item value="合同" />
       <item value="Assignable" />
       <item value="sequence" />
       <item value="Allocate bits for UID according to delta seconds &amp; workerId &amp; sequence&lt;br&gt;" />
@@ -47,15 +51,11 @@
       <item value="spec" />
       <item value="/** * Creates a picture. * @param anchor the client anchor describes how this picture is * attached to the sheet. * @param pictureIndex the index of the picture in the workbook collection * of pictures. * * @return the newly created picture." />
       <item value="wrapper" />
-      <item value="注解" />
-      <item value="The horizontal alignment is centered across multiple cells. * The information about how many cells to span is expressed in the Sheet Part, * in the row of the cell in question. For each cell that is spanned in the alignment, * a cell element needs to be written out, with the same style Id which references the centerContinuous alignment." />
-      <item value="The horizontal alignment is centered, meaning the text is centered across the cell." />
-      <item value="* Set the row's height or set to ff (-1) for undefined/default-height. Set the height in &quot;twips&quot; or * 1/20th of a point. * * @param height rowheight or 0xff for undefined (use sheet default)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="80" />
         <entry key="DUTCH" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
