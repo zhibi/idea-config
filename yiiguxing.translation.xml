@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encoder" />
       <item value="company" />
       <item value="Scale(" />
       <item value="signum" />
@@ -50,12 +51,11 @@
       <item value="临时" />
       <item value="Anchor" />
       <item value="coordinate in EMU within the first cell." />
-      <item value="the column (0 based) of the second cell." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="DUTCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SWEDISH" value="1" />
