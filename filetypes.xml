@@ -6,7 +6,6 @@
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="city" type="PLAIN_TEXT" />
-      <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
