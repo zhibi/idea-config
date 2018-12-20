@@ -54,10 +54,6 @@
           <option name="url" value="https://github.com/zhibi/spring-boot-study.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitee.com" />
-          <option name="userName" value="zhibi" />
-        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\project-zhibi" />
