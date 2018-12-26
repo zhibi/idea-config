@@ -1,6 +1,7 @@
 <application>
   <component name="GDPHSettings">
-    <option name="nexusSearchUrl" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    <option name="useMavenCentral" value="true" />
+    <option name="useMavenIndex" value="true" />
     <option name="useNexus" value="true" />
   </component>
 </application>
