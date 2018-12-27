@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* The authentication type to use for this resource. * This may be specified for resources representing a * connection factory of any supported type, and must * not be specified for resources of other types." />
+      <item value="APPLICATION" />
+      <item value="CONTAINER" />
       <item value="Contact" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
