@@ -59,12 +59,12 @@
           <option name="userName" value="zhibi" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/zhibi/zhong_xi.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="zhibi" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\project-zhongxi" />
+    <option name="cloneParentDir" value="E:\project-zhibi" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
