@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="placard" />
+      <item value="公告" />
+      <item value="排序" />
+      <item value="描述" />
+      <item value="栏目" />
+      <item value="site" />
       <item value="Once Per" />
       <item value="store" />
       <item value="Expired" />
@@ -12,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
