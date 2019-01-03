@@ -1,17 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="/** * Interface that defines common cache operations. * * &lt;b&gt;Note:&lt;/b&gt; Due to the generic use of caching, it is recommended that * implementations allow storage of &lt;tt&gt;null&lt;/tt&gt; values (for example to * cache methods that return {@code null}). * * @author Costin Leau * @author Juergen Hoeller * @author Stephane Nicoll * @since 3.1" />
-      <item value="authorize" />
-      <item value="* The authentication type to use for this resource. * This may be specified for resources representing a * connection factory of any supported type, and must * not be specified for resources of other types." />
-      <item value="APPLICATION" />
-      <item value="CONTAINER" />
+      <item value="placard" />
+      <item value="公告" />
+      <item value="排序" />
+      <item value="描述" />
+      <item value="栏目" />
+      <item value="site" />
+      <item value="Once Per" />
+      <item value="store" />
+      <item value="Expired" />
+      <item value="Absent" />
+      <item value="evict" />
+      <item value="MILLISECONDS" />
+      <item value="Caffeine" />
       <item value="Contact" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
