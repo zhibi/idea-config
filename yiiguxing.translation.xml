@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Interface that defines common cache operations. * * &lt;b&gt;Note:&lt;/b&gt; Due to the generic use of caching, it is recommended that * implementations allow storage of &lt;tt&gt;null&lt;/tt&gt; values (for example to * cache methods that return {@code null}). * * @author Costin Leau * @author Juergen Hoeller * @author Stephane Nicoll * @since 3.1" />
       <item value="authorize" />
       <item value="* The authentication type to use for this resource. * This may be specified for resources representing a * connection factory of any supported type, and must * not be specified for resources of other types." />
       <item value="APPLICATION" />
@@ -9,8 +10,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
