@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collect" />
       <item value="REJECT" />
       <item value="* Enables the accumulation of {@link CacheStats} during the operation of the cache. Without this * {@link Cache#stats} will return zero for all statistics. Note that recording statistics * requires bookkeeping to be performed with each operation, and thus imposes a performance * penalty on cache operation." />
       <item value="* Names of the caches in which method invocation results are stored. * &lt;p&gt;Names may be used to determine the target cache (or caches), matching * the qualifier value or bean name of a specific bean definition." />
@@ -21,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
