@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Sets the maximum allowed number of threads. This overrides any * value set in the constructor. If the new value is smaller than * the current value, excess existing threads will be * terminated when they next become idle." />
+      <item value="the number of threads to keep in the pool, even * if they are idle, unless {@code allowCoreThreadTimeOut} is set" />
       <item value="* Implementation of the {@link java.util.concurrent.ThreadFactory} interface, * allowing for customizing the created threads (name, priority, etc). * * &lt;p&gt;See the base class {@link org.springframework.util.CustomizableThreadCreator} * for details on the available configuration options. *" />
       <item value="/** * Include the result of the superclass's implementation of {@code toString} in the output. * &lt;strong&gt;default: false&lt;/strong&gt; *" />
       <item value="record" />
@@ -25,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
