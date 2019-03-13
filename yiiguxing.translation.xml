@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Indicates how often(in seconds) to fetch the registry information from * the eureka server." />
       <item value="Initializes all scheduled tasks." />
       <item value="Fetch" />
       <item value="Responsible for adding in a marker bean to activate" />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
