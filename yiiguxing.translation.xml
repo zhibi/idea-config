@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initializes all scheduled tasks." />
+      <item value="Fetch" />
       <item value="Responsible for adding in a marker bean to activate" />
       <item value="true if we have to prefer the same zone as the client, false otherwise" />
       <item value="The zone in which the client resides" />
@@ -14,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
