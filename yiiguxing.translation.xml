@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="true if we are declaring an exclusive queue (restricted to this connection)" />
+      <item value="ther properties (construction arguments) for the exchange" />
+      <item value="rue if the server should delete the exchange when it is no longer in use" />
+      <item value="true if we are declaring a durable exchange (the exchange will survive a server restart" />
       <item value="* Inserts the specified element at the tail of this queue if it is * possible to do so immediately without exceeding the queue's capacity, * returning {@code true} upon success and {@code false} if this queue * is full. This method is generally preferable to method {@link #add}, * which can fail to insert an element only by throwing an exception. *" />
       <item value="* &lt;p&gt;{@code BlockingQueue} methods come in four forms, with different ways * of handling operations that cannot be satisfied immediately, but may be * satisfied at some point in the future: * one throws an exception, the second returns a special value (either * {@code null} or {@code false}, depending on the operation), the third * blocks the current thread indefinitely until the operation can succeed, * and the fourth blocks for only a given maximum time limit before giving * up. These methods are summarized in the following table:" />
       <item value="* A {@link java.util.Queue} that additionally supports operations * that wait for the queue to become non-empty when retrieving an * element, and wait for space to become available in the queue when * storing an element." />
@@ -22,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
