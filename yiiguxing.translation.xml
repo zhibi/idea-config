@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* The hostname if it can be determined at configuration time (otherwise it will be * guessed from OS primitives)." />
+      <item value="instance" />
       <item value="eviction Interval Timer In Ms" />
       <item value="interval" />
       <item value="eviction" />
@@ -30,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
