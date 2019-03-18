@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eviction Interval Timer In Ms" />
+      <item value="interval" />
+      <item value="eviction" />
       <item value="multiple true to acknowledge all messages up to and" />
       <item value="true if we are declaring an exclusive queue (restricted to this connection)" />
       <item value="ther properties (construction arguments) for the exchange" />
@@ -27,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
