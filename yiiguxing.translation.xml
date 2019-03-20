@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="招募" />
+      <item value="满员" />
       <item value="Inclusion rule to use for entries (&quot;content&quot;) of annotated" />
       <item value="/** * Inclusion rule to use for instances (values) of types (Classes) or * properties annotated; defaults to {@link Include#ALWAYS}." />
       <item value="Annotation used to indicate when value of the annotated property (when * used for a field, method or constructor parameter), or all * properties of the annotated class, is to be serialized. * Without annotation property values are always included, but by using * this annotation one can specify simple exclusion rules to reduce * amount of properties to write out. *&lt;p&gt; * Note that the main inclusion criteria (one annotated with {@link #value}) * is checked on &lt;b&gt;Java object level&lt;/b&gt;, for the annotated type, * and &lt;b&gt;NOT&lt;/b&gt; on JSON output -- so even with {@link Include#NON_NULL} * it is possible that JSON null values are output, if object reference * in question is not `null`. An example is {@link java.util.concurrent.atomic.AtomicReference} * instance constructed to reference &lt;code&gt;null&lt;/code&gt; value: such a value * would be serialized as JSON null, and not filtered out. *&lt;p&gt; * To base inclusion on value of contained value(s), you will typically also need * to specify {@link #content()} annotation; for example, specifying only * {@link #value} as {@link Include#NON_EMPTY} for a {link java.util.Map} would * exclude &lt;code&gt;Map&lt;/code&gt;s with no values, but would include &lt;code&gt;Map&lt;/code&gt;s * with `null` values. To exclude Map with only `null` value, you would use both * annotations like so: *&lt;pre&gt; *public class Bean { * {@literal @JsonInclude}(value=Include.NON_EMPTY, content=Include.NON_NULL) * public Map&amp;lt;String,String&amp;gt; entries; *} *&lt;/pre&gt; * Similarly you could Maps that only contain * &quot;empty&quot; elements, or &quot;non-default&quot; values (see {@link Include#NON_EMPTY} and * {@link Include#NON_DEFAULT} for more details). *&lt;p&gt; * In addition to `Map`s, `content` concept is also supported for referential * types (like {@link java.util.concurrent.atomic.AtomicReference}). * Note that `content` is NOT currently (as of Jackson 2.9) supported for * arrays or {@link java.util.Collection}s, but supported may be added in * future versions. *" />
@@ -35,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="32" />
       </map>
     </option>
   </component>
