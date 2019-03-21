@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/babylikebird/common-admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/liu-peiyu/Geek-Framework.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\project-Pay" />
+    <option name="cloneParentDir" value="E:\project-Hub" />
   </component>
 </application>
