@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/zhibi/payment-dpx.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/babylikebird/common-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\project-op" />
+    <option name="cloneParentDir" value="E:\project-Pay" />
   </component>
 </application>
