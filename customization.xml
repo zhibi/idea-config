@@ -6,6 +6,20 @@
       <path value="Translation Toolbar Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Pull" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Git.Fetch" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
