@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process" />
       <item value="招募" />
       <item value="满员" />
       <item value="Inclusion rule to use for entries (&quot;content&quot;) of annotated" />
@@ -38,7 +39,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
