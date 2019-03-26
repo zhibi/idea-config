@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="鉴权绑卡" />
       <item value="refused" />
       <item value="log retention days" />
       <item value="logretentiondays" />
@@ -41,7 +42,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="36" />
       </map>
     </option>
