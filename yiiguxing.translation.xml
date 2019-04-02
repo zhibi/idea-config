@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Do not initialize the datasource." />
+      <item value="Only initialize an embedded datasource." />
+      <item value="Always initialize the datasource." />
       <item value="verify" />
       <item value="THIRD" />
       <item value="actual" />
@@ -48,12 +51,11 @@
       <item value="Discovery" />
       <item value="* Convenience annotation for clients to enable Eureka discovery configuration * (specifically). Use this (optionally) in case you want discovery and know for sure that * it is Eureka you want. All it does is turn on discovery and let the autoconfiguration * find the eureka classes if they are available (i.e. you need Eureka on the classpath as * well). *" />
       <item value="Circuit" />
-      <item value="The most well known and basic load balancing strategy, i.e. Round Robin Rule." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
