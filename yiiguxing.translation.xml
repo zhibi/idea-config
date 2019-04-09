@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prompt" />
+      <item value="提示" />
+      <item value="point" />
       <item value="Do not initialize the datasource." />
       <item value="Only initialize an embedded datasource." />
       <item value="Always initialize the datasource." />
@@ -48,14 +51,11 @@
       <item value="Get the list of all eureka service urls from properties file for the eureka client to talk to." />
       <item value="* &lt;tt&gt;Eureka Client&lt;/tt&gt; is responsible for a) &lt;em&gt;Registering&lt;/em&gt; the * instance with &lt;tt&gt;Eureka Server&lt;/tt&gt; b) &lt;em&gt;Renewal&lt;/em&gt;of the lease with * &lt;tt&gt;Eureka Server&lt;/tt&gt; c) &lt;em&gt;Cancellation&lt;/em&gt; of the lease from * &lt;tt&gt;Eureka Server&lt;/tt&gt; during shutdown * &lt;p&gt; * d) &lt;em&gt;Querying&lt;/em&gt; the list of services/instances registered with * &lt;tt&gt;Eureka Server&lt;/tt&gt; * &lt;p&gt;" />
       <item value="The class that is instrumental for interactions with &lt;tt&gt;Eureka Server&lt;/tt&gt;." />
-      <item value="Discovery" />
-      <item value="* Convenience annotation for clients to enable Eureka discovery configuration * (specifically). Use this (optionally) in case you want discovery and know for sure that * it is Eureka you want. All it does is turn on discovery and let the autoconfiguration * find the eureka classes if they are available (i.e. you need Eureka on the classpath as * well). *" />
-      <item value="Circuit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
       </map>
     </option>
   </component>
