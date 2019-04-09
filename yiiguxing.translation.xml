@@ -1,7 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="* Performs the given action for each remaining element until all elements * have been processed or the action throws an exception. Actions are * performed in the order of iteration, if that order is specified. * Exceptions thrown by the action are relayed to the caller. *" />
+      <item value="Do not initialize the datasource." />
+      <item value="Only initialize an embedded datasource." />
+      <item value="Always initialize the datasource." />
+      <item value="verify" />
+      <item value="THIRD" />
+      <item value="actual" />
+      <item value="expected" />
       <item value="Alphanumeric" />
       <item value="Alphabetic" />
       <item value="Creates a random string whose length is the number of characters" />
@@ -45,12 +51,11 @@
       <item value="Discovery" />
       <item value="* Convenience annotation for clients to enable Eureka discovery configuration * (specifically). Use this (optionally) in case you want discovery and know for sure that * it is Eureka you want. All it does is turn on discovery and let the autoconfiguration * find the eureka classes if they are available (i.e. you need Eureka on the classpath as * well). *" />
       <item value="Circuit" />
-      <item value="The most well known and basic load balancing strategy, i.e. Round Robin Rule." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
