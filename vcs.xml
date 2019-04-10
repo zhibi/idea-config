@@ -26,9 +26,13 @@
           <option name="url" value="https://gitee.com/zhibi/school-orderfood.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/zhibi/op_dpx_pay.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\project-Hub" />
+    <option name="cloneParentDir" value="E:\Project-Demo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
