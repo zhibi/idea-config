@@ -30,6 +30,14 @@
           <option name="url" value="https://gitee.com/zhibi/op_dpx_pay.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.keji.com" />
+          <option name="userName" value="feigeter_yaojinquan" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="zhibi" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Project-Demo" />
