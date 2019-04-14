@@ -30,9 +30,13 @@
           <option name="url" value="http://git.keji.com" />
           <option name="userName" value="feigeter_yaojinquan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhibi/edu-his.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\project-Hub" />
+    <option name="cloneParentDir" value="E:\project-edu" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
