@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the raw password to encode and match" />
+      <item value="the encoded password from storage to compare with" />
       <item value="prompt" />
       <item value="提示" />
       <item value="point" />
@@ -49,13 +51,11 @@
       <item value="true if we have to prefer the same zone as the client, false otherwise" />
       <item value="The zone in which the client resides" />
       <item value="Get the list of all eureka service urls from properties file for the eureka client to talk to." />
-      <item value="* &lt;tt&gt;Eureka Client&lt;/tt&gt; is responsible for a) &lt;em&gt;Registering&lt;/em&gt; the * instance with &lt;tt&gt;Eureka Server&lt;/tt&gt; b) &lt;em&gt;Renewal&lt;/em&gt;of the lease with * &lt;tt&gt;Eureka Server&lt;/tt&gt; c) &lt;em&gt;Cancellation&lt;/em&gt; of the lease from * &lt;tt&gt;Eureka Server&lt;/tt&gt; during shutdown * &lt;p&gt; * d) &lt;em&gt;Querying&lt;/em&gt; the list of services/instances registered with * &lt;tt&gt;Eureka Server&lt;/tt&gt; * &lt;p&gt;" />
-      <item value="The class that is instrumental for interactions with &lt;tt&gt;Eureka Server&lt;/tt&gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
       </map>
     </option>
   </component>
