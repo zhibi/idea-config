@@ -1,14 +1,8 @@
 <templateSet group="surround">
   <template name="B" value="{$SELECTION$}" shortcut="NONE" description="Surround with {}" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="GROOVY" value="false" />
-      <option name="GROOVY_STATEMENT" value="false" />
-    </context>
+    <context />
   </template>
   <template name="P" value="($SELECTION$)" shortcut="NONE" description="Surround with ()" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="GROOVY" value="false" />
-      <option name="GROOVY_EXPRESSION" value="false" />
-    </context>
+    <context />
   </template>
 </templateSet>
