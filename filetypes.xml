@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern=".babelrc." type="JSON" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="百度地图" type="PLAIN_TEXT" />
       <mapping pattern="url" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />

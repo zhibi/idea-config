@@ -1,65 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Is the specified class an inner class or static nested class.&lt;/p&gt; * * @param cls the class to check, may be null * @return {@code true} if the class is an inner or static nested class," />
-      <item value="prompt" />
-      <item value="提示" />
-      <item value="point" />
-      <item value="Do not initialize the datasource." />
-      <item value="Only initialize an embedded datasource." />
-      <item value="Always initialize the datasource." />
-      <item value="verify" />
-      <item value="THIRD" />
-      <item value="actual" />
-      <item value="expected" />
-      <item value="Alphanumeric" />
-      <item value="Alphabetic" />
-      <item value="Creates a random string whose length is the number of characters" />
-      <item value=" Decrypt" />
       <item value="encrypt" />
-      <item value="decrypt" />
-      <item value="鉴权绑卡" />
-      <item value="refused" />
-      <item value="log retention days" />
-      <item value="logretentiondays" />
-      <item value="process" />
-      <item value="招募" />
-      <item value="满员" />
-      <item value="Inclusion rule to use for entries (&quot;content&quot;) of annotated" />
-      <item value="/** * Inclusion rule to use for instances (values) of types (Classes) or * properties annotated; defaults to {@link Include#ALWAYS}." />
-      <item value="Annotation used to indicate when value of the annotated property (when * used for a field, method or constructor parameter), or all * properties of the annotated class, is to be serialized. * Without annotation property values are always included, but by using * this annotation one can specify simple exclusion rules to reduce * amount of properties to write out. *&lt;p&gt; * Note that the main inclusion criteria (one annotated with {@link #value}) * is checked on &lt;b&gt;Java object level&lt;/b&gt;, for the annotated type, * and &lt;b&gt;NOT&lt;/b&gt; on JSON output -- so even with {@link Include#NON_NULL} * it is possible that JSON null values are output, if object reference * in question is not `null`. An example is {@link java.util.concurrent.atomic.AtomicReference} * instance constructed to reference &lt;code&gt;null&lt;/code&gt; value: such a value * would be serialized as JSON null, and not filtered out. *&lt;p&gt; * To base inclusion on value of contained value(s), you will typically also need * to specify {@link #content()} annotation; for example, specifying only * {@link #value} as {@link Include#NON_EMPTY} for a {link java.util.Map} would * exclude &lt;code&gt;Map&lt;/code&gt;s with no values, but would include &lt;code&gt;Map&lt;/code&gt;s * with `null` values. To exclude Map with only `null` value, you would use both * annotations like so: *&lt;pre&gt; *public class Bean { * {@literal @JsonInclude}(value=Include.NON_EMPTY, content=Include.NON_NULL) * public Map&amp;lt;String,String&amp;gt; entries; *} *&lt;/pre&gt; * Similarly you could Maps that only contain * &quot;empty&quot; elements, or &quot;non-default&quot; values (see {@link Include#NON_EMPTY} and * {@link Include#NON_DEFAULT} for more details). *&lt;p&gt; * In addition to `Map`s, `content` concept is also supported for referential * types (like {@link java.util.concurrent.atomic.AtomicReference}). * Note that `content` is NOT currently (as of Jackson 2.9) supported for * arrays or {@link java.util.Collection}s, but supported may be added in * future versions. *" />
-      <item value="* The hostname if it can be determined at configuration time (otherwise it will be * guessed from OS primitives)." />
-      <item value="instance" />
-      <item value="eviction Interval Timer In Ms" />
-      <item value="interval" />
-      <item value="eviction" />
-      <item value="multiple true to acknowledge all messages up to and" />
-      <item value="true if we are declaring an exclusive queue (restricted to this connection)" />
-      <item value="ther properties (construction arguments) for the exchange" />
-      <item value="rue if the server should delete the exchange when it is no longer in use" />
-      <item value="true if we are declaring a durable exchange (the exchange will survive a server restart" />
-      <item value="* Inserts the specified element at the tail of this queue if it is * possible to do so immediately without exceeding the queue's capacity, * returning {@code true} upon success and {@code false} if this queue * is full. This method is generally preferable to method {@link #add}, * which can fail to insert an element only by throwing an exception. *" />
-      <item value="* &lt;p&gt;{@code BlockingQueue} methods come in four forms, with different ways * of handling operations that cannot be satisfied immediately, but may be * satisfied at some point in the future: * one throws an exception, the second returns a special value (either * {@code null} or {@code false}, depending on the operation), the third * blocks the current thread indefinitely until the operation can succeed, * and the fourth blocks for only a given maximum time limit before giving * up. These methods are summarized in the following table:" />
-      <item value="* A {@link java.util.Queue} that additionally supports operations * that wait for the queue to become non-empty when retrieving an * element, and wait for space to become available in the queue when * storing an element." />
-      <item value="should Fetch Registry" />
-      <item value="keep Alive Time" />
-      <item value="* Indicates how often(in seconds) to fetch the registry information from * the eureka server." />
-      <item value="Initializes all scheduled tasks." />
-      <item value="Fetch" />
-      <item value="Responsible for adding in a marker bean to activate" />
-      <item value="true if we have to prefer the same zone as the client, false otherwise" />
-      <item value="The zone in which the client resides" />
-      <item value="Get the list of all eureka service urls from properties file for the eureka client to talk to." />
-      <item value="* &lt;tt&gt;Eureka Client&lt;/tt&gt; is responsible for a) &lt;em&gt;Registering&lt;/em&gt; the * instance with &lt;tt&gt;Eureka Server&lt;/tt&gt; b) &lt;em&gt;Renewal&lt;/em&gt;of the lease with * &lt;tt&gt;Eureka Server&lt;/tt&gt; c) &lt;em&gt;Cancellation&lt;/em&gt; of the lease from * &lt;tt&gt;Eureka Server&lt;/tt&gt; during shutdown * &lt;p&gt; * d) &lt;em&gt;Querying&lt;/em&gt; the list of services/instances registered with * &lt;tt&gt;Eureka Server&lt;/tt&gt; * &lt;p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
