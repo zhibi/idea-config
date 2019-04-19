@@ -6,8 +6,13 @@
           <option name="url" value="http://git.keji.com" />
           <option name="userName" value="feigeter_yaojinquan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/linsir6/git-commit-emoji.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="E:\Project-Demo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
