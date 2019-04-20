@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add the given flash attribute." />
       <item value="/** * Wraps the parameter object to {@link TemplateModel} interface(s). Simple types like numbers, strings, booleans * and dates will be wrapped into the corresponding {@code SimpleXxx} classes (like {@link SimpleNumber}). * {@link Map}-s, {@link List}-s, other {@link Collection}-s, arrays and {@link Iterator}-s will be wrapped into the * corresponding {@code SimpleXxx} or {@code DefaultXxxAdapter} classes (like {@link SimpleHash} or * {@link DefaultMapAdapter}), depending on {@link #getUseAdaptersForContainers()} and * {@link #getForceLegacyNonListCollections()}. After that, the wrapping is handled by * {@link #handleUnknownType(Object)}, so see more there. */" />
       <item value="performance" />
       <item value="prop" />
@@ -8,8 +9,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
