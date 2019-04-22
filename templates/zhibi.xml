@@ -24,4 +24,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="pl" value="/**&#10;  * $END$&#10;  */&#10;private Long $VAR$;" description="private Long" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
