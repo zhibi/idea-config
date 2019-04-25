@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Annotation for externalized configuration. Add this to a class definition or a * {@code @Bean} method in a {@code @Configuration} class if you want to bind and validate * some external Properties (e.g. from a .properties file). * &lt;p&gt; * Note that contrary to {@code @Value}, SpEL expressions are not evaluated since property * values are externalized. * * @author Dave Syer" />
       <item value="/** * Feature allows the support for &quot;missing&quot; values in a JSON array: missing * value meaning sequence of two commas, without value in-between but only * optional white space. * Enabling this feature will expose &quot;missing&quot; values as {@link JsonToken#VALUE_NULL} * tokens, which typically become Java nulls in arrays and {@link java.util.Collection} * in data-binding. * &lt;p&gt; * For example, enabling this feature will represent a JSON array &lt;code&gt;[&quot;value1&quot;,,&quot;value3&quot;,]&lt;/code&gt; * as &lt;code&gt;[&quot;value1&quot;, null, &quot;value3&quot;, null]&lt;/code&gt; * &lt;p&gt; * Since the JSON specification does not allow missing values this is a non-compliant JSON * feature and is disabled by default. * * @since 2.8 */" />
       <item value="/** * Feature that allows parser to recognize set of * &quot;Not-a-Number&quot; (NaN) tokens as legal floating number * values (similar to how many other data formats and * programming language source code allows it). * Specific subset contains values that * &lt;a href=&quot;http://www.w3.org/TR/xmlschema-2/&quot;&gt;XML Schema&lt;/a&gt; * (see section 3.2.4.1, Lexical Representation) * allows (tokens are quoted contents, not including quotes): *&lt;ul&gt; * &lt;li&gt;&quot;INF&quot; (for positive infinity), as well as alias of &quot;Infinity&quot; * &lt;li&gt;&quot;-INF&quot; (for negative infinity), alias &quot;-Infinity&quot; * &lt;li&gt;&quot;NaN&quot; (for other not-a-numbers, like result of division by zero) *&lt;/ul&gt; *&lt;p&gt; * Since JSON specification does not allow use of such values, * this is a non-standard feature, and as such disabled by default. */" />
       <item value="* Feature that determines whether parser will allow * JSON integral numbers to start with additional (ignorable) * zeroes (like: 000001). If enabled, no exception is thrown, and extra * nulls are silently ignored (and not included in textual representation * exposed via {@link JsonParser#getText}). *&lt;p&gt; * Since JSON specification does not allow leading zeroes, * this is a non-standard feature, and as such disabled by default. */" />
@@ -26,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
