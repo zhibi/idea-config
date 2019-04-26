@@ -11,6 +11,5 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
