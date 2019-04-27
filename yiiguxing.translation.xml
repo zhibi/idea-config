@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Equivalent to {@link #Template(String, Reader, Configuration) * Template(name, reader, null)}. * * @deprecated This constructor uses the &quot;default&quot; {@link Configuration} * instance, which can easily lead to erroneous, unpredictable behavior. * See more {@link Configuration#getDefaultConfiguration() here...}. */" />
       <item value="Exclude specific auto-configuration classes such that they will never be applied." />
       <item value="/** * Annotation for externalized configuration. Add this to a class definition or a * {@code @Bean} method in a {@code @Configuration} class if you want to bind and validate * some external Properties (e.g. from a .properties file). * &lt;p&gt; * Note that contrary to {@code @Value}, SpEL expressions are not evaluated since property * values are externalized. * * @author Dave Syer" />
       <item value="/** * Feature allows the support for &quot;missing&quot; values in a JSON array: missing * value meaning sequence of two commas, without value in-between but only * optional white space. * Enabling this feature will expose &quot;missing&quot; values as {@link JsonToken#VALUE_NULL} * tokens, which typically become Java nulls in arrays and {@link java.util.Collection} * in data-binding. * &lt;p&gt; * For example, enabling this feature will represent a JSON array &lt;code&gt;[&quot;value1&quot;,,&quot;value3&quot;,]&lt;/code&gt; * as &lt;code&gt;[&quot;value1&quot;, null, &quot;value3&quot;, null]&lt;/code&gt; * &lt;p&gt; * Since the JSON specification does not allow missing values this is a non-compliant JSON * feature and is disabled by default. * * @since 2.8 */" />
@@ -28,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
