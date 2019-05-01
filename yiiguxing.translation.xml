@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns an estimate of the number of bytes that can be read (or * skipped over) from this input stream without blocking by the next * invocation of a method for this input stream. The next invocation * might be the same thread or another thread. A single read or skip of this * many bytes will not block, but may read or skip fewer bytes. * * &lt;p&gt; Note that while some implementations of {@code InputStream} will return * the total number of bytes in the stream, many will not. It is * never correct to use the return value of this method to allocate * a buffer intended to hold all data in this stream. * * &lt;p&gt; A subclass' implementation of this method may choose to throw an * {@link IOException} if this input stream has been closed by * invoking the {@link #close()} method. * * &lt;p&gt; The {@code available} method for class {@code InputStream} always * returns {@code 0}. * * &lt;p&gt; This method should be overridden by subclasses. * * @return an estimate of the number of bytes that can be read (or skipped * over) from this input stream without blocking or {@code 0} when * it reaches the end of the input stream. * @exception IOException if an I/O error occurs." />
+      <item value="* Equivalent to {@link #Template(String, Reader, Configuration) * Template(name, reader, null)}. * * @deprecated This constructor uses the &quot;default&quot; {@link Configuration} * instance, which can easily lead to erroneous, unpredictable behavior. * See more {@link Configuration#getDefaultConfiguration() here...}. */" />
       <item value="Exclude specific auto-configuration classes such that they will never be applied." />
       <item value="/** * Annotation for externalized configuration. Add this to a class definition or a * {@code @Bean} method in a {@code @Configuration} class if you want to bind and validate * some external Properties (e.g. from a .properties file). * &lt;p&gt; * Note that contrary to {@code @Value}, SpEL expressions are not evaluated since property * values are externalized. * * @author Dave Syer" />
       <item value="/** * Feature allows the support for &quot;missing&quot; values in a JSON array: missing * value meaning sequence of two commas, without value in-between but only * optional white space. * Enabling this feature will expose &quot;missing&quot; values as {@link JsonToken#VALUE_NULL} * tokens, which typically become Java nulls in arrays and {@link java.util.Collection} * in data-binding. * &lt;p&gt; * For example, enabling this feature will represent a JSON array &lt;code&gt;[&quot;value1&quot;,,&quot;value3&quot;,]&lt;/code&gt; * as &lt;code&gt;[&quot;value1&quot;, null, &quot;value3&quot;, null]&lt;/code&gt; * &lt;p&gt; * Since the JSON specification does not allow missing values this is a non-compliant JSON * feature and is disabled by default. * * @since 2.8 */" />
@@ -28,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
