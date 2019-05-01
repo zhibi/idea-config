@@ -30,4 +30,18 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="gm" value="/**&#10; * $VAR2$&#10; */&#10;@GetMapping(&quot;$VAR$&quot;)&#10;public String $VAR$() {&#10;    return &quot;$END$&quot;;&#10;}" description="新建一个getMapper" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pm" value="/**&#10; * $VAR2$&#10; */&#10;@PostMapping(&quot;$VAR$&quot;)&#10;public String $VAR$() {&#10;    return &quot;$END$&quot;;&#10;}" description="新建一个postMapper" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
