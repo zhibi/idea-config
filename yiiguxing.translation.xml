@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="examine" />
       <item value="Dossier" />
       <item value="part" />
       <item value="whether to break scope restrictions using the * {@link java.lang.reflect.AccessibleObject#setAccessible(boolean)} method. {@code false} will only * match {@code public} fields." />
@@ -36,7 +37,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
