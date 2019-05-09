@@ -5,15 +5,17 @@
       <mapping ext="html" type="FTL" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern=".babelrc." type="JSON" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="百度地图" type="PLAIN_TEXT" />
       <mapping pattern="url" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="wps" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="rtf" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
