@@ -1,32 +1,45 @@
 <templateSet group="zhibi">
-  <template name="test" value="@Test&#10;public void test$VAR1$(){&#10;    $END$&#10;}" description="生成一个测试方法" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-    </context>
-  </template>
-  <template name="ps" value="/**&#10; * $END$&#10; */&#10;private String $VAR1$;&#10;&#10;" description="private String" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-    </context>
-  </template>
-  <template name="pi" value="/**&#10; * $END$&#10; */&#10;private Integer $VAR1$;&#10;" description="private Integer" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="ps" value="/**&#10; * $END$&#10; */&#10;private String $VAR$;" description="private String" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="pl" value="/**&#10; * $END$&#10; */&#10;private Long $VAR1$;&#10;" description="private Long" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="pi" value="/**&#10; * $END$&#10; */&#10;private Integer $VAR$;" description="private Integer" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="pd" value="/**&#10; * $END$&#10; */&#10;private Double $VAR1$;&#10;" description="private Double" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="test" value="@Test&#10;public void test$VAR$(){&#10;    $END$&#10;}" description="生成测试方法" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cc" value="/**&#10; * $END$&#10; * @author 执笔&#10; * @date $DATE$ $TIME$&#10; */" description="Class 类的头部注释" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pl" value="/**&#10;  * $END$&#10;  */&#10;private Long $VAR$;" description="private Long" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="gm" value="/**&#10; * $VAR2$&#10; */&#10;@GetMapping(&quot;$VAR$&quot;)&#10;public String $VAR$() {&#10;    return &quot;$END$&quot;;&#10;}" description="新建一个getMapper" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pm" value="/**&#10; * $VAR2$&#10; */&#10;@PostMapping(&quot;$VAR$&quot;)&#10;public String $VAR$() {&#10;    return &quot;$END$&quot;;&#10;}" description="新建一个postMapper" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

@@ -3,70 +3,31 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/zhibi/private-dpx-pay.git" />
+          <option name="url" value="http://git.keji.com" />
+          <option name="userName" value="feigeter_yaojinquan" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/linsir6/git-commit-emoji.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/zhibi/op_dpx_pay.git" />
+          <option name="url" value="https://github.com/zhibi/payment-dpx.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/zhibi/zhibi-boost.git" />
+          <option name="url" value="https://github.com/zhibi/oc-payment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/zhibi-dream/OP_car_sale.git" />
+          <option name="url" value="https://github.com/zhibi/admin-rbac.git" />
           <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/xianJD/sulu.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/zhibi/study-spring-boot.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/zhibi/e-ydd.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/zhibi/school-his.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/zhibi/op-car-union.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/zhibi/op-pay-manage.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/zhibi/zhibi-learn.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/zhibi/zhibi.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/zhibi/spring-boot-study.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitee.com" />
-          <option name="userName" value="zhibi" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="zhibi" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\project-zhibi" />
+    <option name="cloneParentDir" value="E:\Project-oc" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
   </component>
 </application>

@@ -4,108 +4,24 @@
       <component name="CodeInsightWorkspaceSettings">
         <option name="optimizeImportsOnTheFly" value="true" />
       </component>
-      <component name="CompilerConfiguration">
-        <annotationProcessing>
-          <profile default="true" name="Default" enabled="true" />
-        </annotationProcessing>
-      </component>
-      <component name="Encoding" native2AsciiForPropertiesFiles="true">
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" addBOMForNewFiles="with NO BOM">
         <file url="PROJECT" charset="UTF-8" />
       </component>
       <component name="Git.Settings">
         <option name="ROOT_SYNC" value="DONT_SYNC" />
-        <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
       </component>
-      <component name="GitToolBoxProjectSettings">
-        <option name="autoFetchIntervalMinutes" value="5" />
-      </component>
-      <component name="GradleLocalSettings">
-        <option name="projectSyncType">
-          <map>
-            <entry key="E:/project-op/pay-manage" value="PREVIEW" />
-            <entry key="E:/project-out/dpx_pay" value="PREVIEW" />
-          </map>
-        </option>
-      </component>
-      <component name="JsFlowSettings">
-        <service-enabled>true</service-enabled>
-        <exe-path />
-        <other-services-enabled>true</other-services-enabled>
-        <auto-save>true</auto-save>
-      </component>
-      <component name="MavenImportPreferences">
-        <option name="importingSettings">
-          <MavenImportingSettings>
-            <option name="importAutomatically" value="true" />
-          </MavenImportingSettings>
-        </option>
-      </component>
-      <component name="MavenRunner">
-        <option name="jreName" value="1.8" />
-      </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="zhibi" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State />
-              <State>
-                <id>HTML</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>AOP</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="E:/project-zhibi" />
-        <property name="node.js.path.for.package.stylelint" value="project" />
-        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="last_opened_file_path" value="D:/Application/cmder/vendor/git-for-windows/bin/git.exe" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="project.structure.last.edited" value="Problems" />
-        <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.49080458" />
-        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
       </component>
-      <component name="SpringGeneralSettings">
-        <option name="allowAutoConfigurationMode" value="true" />
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
+      <component name="VcsManagerConfiguration">
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
       </component>
       <component name="masterDetails">
         <states>
-          <state key="GlobalLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.49080458" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="JdkListConfigurable.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.49080458" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>1.8</last-edited>
@@ -118,23 +34,12 @@
               </splitter-proportions>
             </settings>
           </state>
-          <state key="ProjectLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.49080458" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
           <state key="ScopeChooserConfigurable.UI">
             <settings>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
-                    <option value="0.49080458" />
+                    <option value="0.2" />
                   </list>
                 </option>
               </splitter-proportions>

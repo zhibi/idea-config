@@ -4,10 +4,28 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="html" type="FTL" />
       <removed_mapping ext="html" approved="true" type="HTML" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="city" type="PLAIN_TEXT" />
-      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping pattern=".babelrc." type="JSON" />
+      <mapping pattern="百度地图" type="PLAIN_TEXT" />
+      <mapping pattern="url" type="PLAIN_TEXT" />
+      <mapping pattern="form-ethnic" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
       <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
