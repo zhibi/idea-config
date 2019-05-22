@@ -1,14 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="PREFIEX" />
-      <item value="案件" />
+      <item value="guarder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="1" />
-        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
