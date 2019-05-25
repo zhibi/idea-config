@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/zhibi/edu-football-information.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhibi/edu-painting.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\project-edu" />
