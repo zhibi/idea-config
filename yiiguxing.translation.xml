@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sorts the specified range of the specified array of objects into * ascending order, according to the * {@linkplain Comparable natural ordering} of its * elements. The range to be sorted extends from index * {@code fromIndex}, inclusive, to index {@code toIndex}, exclusive. * (If {@code fromIndex==toIndex}, the range to be sorted is empty.) All * elements in this range must implement the {@link Comparable} * interface. Furthermore, all elements in this range must be &lt;i&gt;mutually * comparable&lt;/i&gt; (that is, {@code e1.compareTo(e2)} must not throw a * {@code ClassCastException} for any elements {@code e1} and * {@code e2} in the array)." />
       <item value="比赛" />
       <item value="examine" />
       <item value="Dossier" />
@@ -38,7 +39,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="ENGLISH" value="33" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
