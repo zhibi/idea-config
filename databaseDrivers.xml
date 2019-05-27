@@ -38,7 +38,6 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql">
-      <url-template name="测试" template="jdbc:mysql://{host::120.27.24.193}?[:{port::3306}][/{database}?][\?&lt;&amp;,user={user::leibees},password={password::leibees},{:identifier}={:identifier}&gt;]" />
       <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
@@ -87,10 +86,6 @@
     <driver id="sqlite.xerial">
       <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="exasol">
       <artifact name="Exasol" use="true" />
