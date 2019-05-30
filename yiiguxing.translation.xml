@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suspending" />
       <item value="体温" />
       <item value="* A qualifier value for the specified asynchronous operation(s). * &lt;p&gt;May be used to determine the target executor to be used when executing this * method, matching the qualifier value (or the bean name) of a specific * {@link java.util.concurrent.Executor Executor} or * {@link org.springframework.core.task.TaskExecutor TaskExecutor} * bean definition. * &lt;p&gt;When specified on a class level {@code @Async} annotation, indicates that the * given executor should be used for all methods within the class. Method level use * of {@code Async#value} always overrides any value set at the class level. * @since 3.1.2 */" />
       <item value="Sorts the specified range of the specified array of objects into * ascending order, according to the * {@linkplain Comparable natural ordering} of its * elements. The range to be sorted extends from index * {@code fromIndex}, inclusive, to index {@code toIndex}, exclusive. * (If {@code fromIndex==toIndex}, the range to be sorted is empty.) All * elements in this range must implement the {@link Comparable} * interface. Furthermore, all elements in this range must be &lt;i&gt;mutually * comparable&lt;/i&gt; (that is, {@code e1.compareTo(e2)} must not throw a * {@code ClassCastException} for any elements {@code e1} and * {@code e2} in the array)." />
@@ -41,7 +42,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
