@@ -30,8 +30,12 @@
           <option name="url" value="http://172.27.10.102" />
           <option name="userName" value="yaojinquan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhibi/edu-course-resources.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Project-fgt-sjz" />
+    <option name="cloneParentDir" value="E:\Project-Hub" />
   </component>
 </application>
