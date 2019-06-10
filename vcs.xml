@@ -42,6 +42,10 @@
           <option name="url" value="http://git.keji.com/consumption_stage/cashloan-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.keji.com/consumption_stage/preposition-service-center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Project-fgt" />
