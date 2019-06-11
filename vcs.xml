@@ -46,8 +46,12 @@
           <option name="url" value="http://git.keji.com/consumption_stage/preposition-service-center.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.27.10.102/yinsu_group/preposition-service-center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Project-fgt" />
+    <option name="cloneParentDir" value="E:\Project-fgt-sjz" />
   </component>
 </application>
