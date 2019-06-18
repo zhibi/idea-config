@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Schedule a file to be deleted when JVM exits. * If file is directory delete it and all sub-directories." />
       <item value="* they may contain. For example, some implementations prohibit null elements, * and some have restrictions on the types of their elements. Attempting to * add an ineligible element throws an unchecked exception, typically * &lt;tt&gt;NullPointerException&lt;/tt&gt; or &lt;tt&gt;ClassCastException&lt;/tt&gt;. Attempting * to query the presence of an ineligible element may throw an exception, * or it may simply return false; some implementations will exhibit the former * behavior and some will exhibit the latter. More generally, attempting an * operation on an ineligible element whose completion would not result in * the insertion of an ineligible element into the list may throw an * exception or it may succeed, at the option of the implementation. * Such exceptions are marked as &quot;optional&quot; in the specification for this * interface. *" />
       <item value="* &lt;p&gt;Some list implementations have restrictions on the elements that * they may contain. For example, some implementations prohibit null elements, * and some have restrictions on the types of their elements. Attempting to * add an ineligible element throws an unchecked exception, typically * &lt;tt&gt;NullPointerException&lt;/tt&gt; or &lt;tt&gt;ClassCastException&lt;/tt&gt;. Attempting * to query the presence of an ineligible element may throw an exception, * or it may simply return false; some implementations will exhibit the former * behavior and some will exhibit the latter. More generally, attempting an * operation on an ineligible element whose completion would not result in * the insertion of an ineligible element into the list may throw an * exception or it may succeed, at the option of the implementation. * Such exceptions are marked as &quot;optional&quot; in the specification for this * interface." />
       <item value="mq Contract Request Info Mapper" />
@@ -49,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
