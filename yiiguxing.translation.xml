@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BROADCASTING" />
       <item value="模板" />
       <item value="formwork" />
       <item value="Schedule a file to be deleted when JVM exits. * If file is directory delete it and all sub-directories." />
@@ -53,7 +54,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
