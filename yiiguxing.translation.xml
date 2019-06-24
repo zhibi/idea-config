@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Deletes the file or directory denoted by this abstract pathname. If * this pathname denotes a directory, then the directory must be empty in * order to be deleted. *" />
+      <item value="Requests that the file or directory denoted by this abstract * pathname be deleted when the virtual machine terminates. * Files (or directories) are deleted in the reverse order that * they are registered. Invoking this method to delete a file or * directory that is already registered for deletion has no effect. * Deletion will be attempted only for normal termination of the * virtual machine, as defined by the Java Language Specification." />
+      <item value="Requests that the file or directory denoted by this abstract * pathname be deleted when the virtual machine terminates. * Files (or directories) are deleted in the reverse order that * they are registered. Invoking this method to delete a file or * directory that is already registered for deletion has no effect. * Deletion will be attempted only for normal termination of the * virtual machine, as defined by the Java Language Specification. * * &lt;p&gt; Once deletion has been requested, it is not possible to cancel the * request. This method should therefore be used with care. *" />
+      <item value="deleted when JVM exits." />
       <item value="* Consumers of the same role is required to have exactly same subscriptions and consumerGroup to correctly achieve * load balance. It's required and needs to be globally unique." />
       <item value="BROADCASTING" />
       <item value="模板" />
@@ -47,15 +51,11 @@
       <item value="Custom" />
       <item value=" double-quote" />
       <item value="Add the given flash attribute." />
-      <item value="/** * Wraps the parameter object to {@link TemplateModel} interface(s). Simple types like numbers, strings, booleans * and dates will be wrapped into the corresponding {@code SimpleXxx} classes (like {@link SimpleNumber}). * {@link Map}-s, {@link List}-s, other {@link Collection}-s, arrays and {@link Iterator}-s will be wrapped into the * corresponding {@code SimpleXxx} or {@code DefaultXxxAdapter} classes (like {@link SimpleHash} or * {@link DefaultMapAdapter}), depending on {@link #getUseAdaptersForContainers()} and * {@link #getForceLegacyNonListCollections()}. After that, the wrapping is handled by * {@link #handleUnknownType(Object)}, so see more there. */" />
-      <item value="performance" />
-      <item value="prop" />
-      <item value="League" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
