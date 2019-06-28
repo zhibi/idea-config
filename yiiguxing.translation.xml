@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Increment an integer value stored as string value under" />
+      <item value="delta" />
+      <item value="/** * Increment an integer value stored as string value under {@code key} by {@code delta}. * * @param key must not be {@literal null}. * @param delta * @return {@literal null} when used in pipeline / transaction. * @see &lt;a href=&quot;http://redis.io/commands/incrby&quot;&gt;Redis Documentation: INCRBY&lt;/a&gt; */" />
       <item value="optionally overwrite tags every time image is built with docker:build" />
       <item value="* Deletes the file or directory denoted by this abstract pathname. If * this pathname denotes a directory, then the directory must be empty in * order to be deleted. *" />
       <item value="Requests that the file or directory denoted by this abstract * pathname be deleted when the virtual machine terminates. * Files (or directories) are deleted in the reverse order that * they are registered. Invoking this method to delete a file or * directory that is already registered for deletion has no effect. * Deletion will be attempted only for normal termination of the * virtual machine, as defined by the Java Language Specification." />
@@ -48,14 +51,11 @@
       <item value="* Feature that determines whether parser will allow use * of Java/C++ style comments (both '/'+'*' and * '//' varieties) within parsed content or not. *&lt;p&gt; * Since JSON specification does not mention comments as legal * construct, * this is a non-standard feature; however, in the wild * this is extensively used. As such, feature is * &lt;b&gt;disabled by default&lt;/b&gt; for parsers and must be * explicitly enabled." />
       <item value="* Feature that determines whether parser will automatically * close underlying input source that is NOT owned by the * parser. If disabled, calling application has to separately * close the underlying {@link InputStream} and {@link Reader} * instances used to create the parser. If enabled, parser * will handle closing, as long as parser itself gets closed: * this happens when end-of-input is encountered, or parser * is closed by a call to {@link JsonParser#close}. *&lt;p&gt; * Feature is enabled by default." />
       <item value="has to be escaped using backslash to be included in name" />
-      <item value="Customer" />
-      <item value="Custom" />
-      <item value=" double-quote" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
