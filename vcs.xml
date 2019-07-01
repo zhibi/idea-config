@@ -70,4 +70,7 @@
     </option>
     <option name="cloneParentDir" value="E:\Project-fgt-sjz" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+  </component>
 </application>
