@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unified Order" />
       <item value="MILLISECONDS" />
       <item value="/** * Set {@code key} to hold the string {@code value} if {@code key} is present. * * @param key must not be {@literal null}. * @param value must not be {@literal null}. * @return command result indicating if the key has been set. * @throws IllegalArgumentException if either {@code key} or {@code value} is not present. * @see &lt;a href=&quot;http://redis.io/commands/set&quot;&gt;Redis Documentation: SET&lt;/a&gt; * @since 2.1 */" />
       <item value="* Set {@code key} to hold the string {@code value} if {@code key} is absent. * * @param key must not be {@literal null}. * @param value must not be {@literal null}. * @return {@literal null} when used in pipeline / transaction. * @see &lt;a href=&quot;http://redis.io/commands/setnx&quot;&gt;Redis Documentation: SETNX&lt;/a&gt;" />
@@ -50,12 +51,11 @@
       <item value="* Feature that determines whether parser will allow use * of single quotes (apostrophe, character '\'') for * quoting Strings (names and String values). If so, * this is in addition to other acceptable markers. * but not by JSON specification). *&lt;p&gt; * Since JSON specification requires use of double quotes for * field names, * this is a non-standard feature, and as such disabled by default. */" />
       <item value="* Feature that determines whether parser will allow use * of unquoted field names (which is allowed by Javascript, * but not by JSON specification). *&lt;p&gt; * Since JSON specification requires use of double quotes for * field names, * this is a non-standard feature, and as such disabled by default. */" />
       <item value="/** * Feature that determines whether parser will allow use * of unquoted field names (which is allowed by Javascript, * but not by JSON specification). *&lt;p&gt; * Since JSON specification requires use of double quotes for * field names, * this is a non-standard feature, and as such disabled by default. */" />
-      <item value="/** * Feature that determines whether parser will allow use * of YAML comments, ones starting with '#' and continuing * until the end of the line. This commenting style is common * with scripting languages as well. *&lt;p&gt; * Since JSON specification does not mention comments as legal * construct, * this is a non-standard feature. As such, feature is * &lt;b&gt;disabled by default&lt;/b&gt; for parsers and must be * explicitly enabled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
