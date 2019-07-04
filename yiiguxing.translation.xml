@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Enable support for {@link ConfigurationProperties} annotated beans. * {@link ConfigurationProperties} beans can be registered in the standard way (for * example using {@link Bean @Bean} methods) or, for convenience, can be specified * directly on this annotation." />
       <item value="* Sometimes you want to temporarily disable a test or a group of tests. Methods annotated with * {@link org.junit.Test} that are also annotated with &lt;code&gt;&amp;#064;Ignore&lt;/code&gt; will not be executed as tests. * Also, you can annotate a class containing test methods with &lt;code&gt;&amp;#064;Ignore&lt;/code&gt; and none of the containing * tests will be executed. Native JUnit 4 test runners should report the number of ignored tests along with the * number of tests that ran and the number of tests that failed. * * &lt;p&gt;For example: * &lt;pre&gt; * &amp;#064;Ignore &amp;#064;Test public void something() { ... * &lt;/pre&gt; * &amp;#064;Ignore takes an optional default parameter if you want to record why a test is being ignored: * &lt;pre&gt; * &amp;#064;Ignore(&quot;not ready yet&quot;) &amp;#064;Test public void something() { ... * &lt;/pre&gt; * &amp;#064;Ignore can also be applied to the test class: * &lt;pre&gt; * &amp;#064;Ignore public class IgnoreMe { * &amp;#064;Test public void test1() { ... } * &amp;#064;Test public void test2() { ... } * } * &lt;/pre&gt; * * @since 4.0" />
       <item value="unified Order" />
       <item value="MILLISECONDS" />
@@ -50,12 +51,11 @@
       <item value="* Feature that determines whether parser will allow * JSON Strings to contain unquoted control characters * (ASCII characters with value less than 32, including * tab and line feed characters) or not. * If feature is set false, an exception is thrown if such a * character is encountered. *&lt;p&gt; * Since JSON specification requires quoting for all control characters, * this is a non-standard feature, and as such disabled by default. */" />
       <item value="/** * Feature that determines whether parser will allow * JSON Strings to contain unquoted control characters * (ASCII characters with value less than 32, including * tab and line feed characters) or not. * If feature is set false, an exception is thrown if such a * character is encountered. *&lt;p&gt; * Since JSON specification requires quoting for all control characters, * this is a non-standard feature, and as such disabled by default. */" />
       <item value="* Feature that determines whether parser will allow use * of single quotes (apostrophe, character '\'') for * quoting Strings (names and String values). If so, * this is in addition to other acceptable markers. * but not by JSON specification). *&lt;p&gt; * Since JSON specification requires use of double quotes for * field names, * this is a non-standard feature, and as such disabled by default. */" />
-      <item value="* Feature that determines whether parser will allow use * of unquoted field names (which is allowed by Javascript, * but not by JSON specification). *&lt;p&gt; * Since JSON specification requires use of double quotes for * field names, * this is a non-standard feature, and as such disabled by default. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
