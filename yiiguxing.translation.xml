@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="renewed In Advance" />
+      <item value="employee" />
+      <item value="资方" />
       <item value="Customer Record" />
       <item value="nine" />
       <item value="Alphabetic" />
@@ -46,7 +49,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
+        <entry key="CHINESE" value="40" />
         <entry key="ENGLISH" value="40" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
