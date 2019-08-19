@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * A qualifier value for the specified asynchronous operation(s). * &lt;p&gt;May be used to determine the target executor to be used when executing this * method, matching the qualifier value (or the bean name) of a specific * {@link java.util.concurrent.Executor Executor} or * {@link org.springframework.core.task.TaskExecutor TaskExecutor} * bean definition. * &lt;p&gt;When specified on a class level {@code @Async} annotation, indicates that the * given executor should be used for all methods within the class. Method level use * of {@code Async#value} always overrides any value set at the class level. * @since 3.1.2 */" />
       <item value="* Determines how two dates compare up to no more than the specified * most significant field." />
       <item value="/** * Determines how two calendars compare up to no more than the specified * most significant field. * * @param cal1 the first calendar, not &lt;code&gt;null&lt;/code&gt; * @param cal2 the second calendar, not &lt;code&gt;null&lt;/code&gt; * @param field the field from {@code Calendar} * @return a negative integer, zero, or a positive integer as the first * calendar is less than, equal to, or greater than the second. * @throws IllegalArgumentException if any argument is &lt;code&gt;null&lt;/code&gt; * @see #truncate(Calendar, int) * @see #truncatedCompareTo(Date, Date, int) * @since 3.0" />
       <item value="renewed In Advance" />
@@ -51,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
