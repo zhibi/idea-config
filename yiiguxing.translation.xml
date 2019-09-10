@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="as cached in the local repository, resolution will not be reattempted until the update interval of alimaven has elapsed or updates are forced" />
       <item value="protocol" />
       <item value="Feature that determines whether JSON floating point numbers * are to be deserialized into {@link java.math.BigDecimal}s * if only generic type description (either {@link Object} or * {@link Number}, or within untyped {@link java.util.Map} * or {@link java.util.Collection} context) is available. * If enabled such values will be deserialized as {@link java.math.BigDecimal}s; * if disabled, will be deserialized as {@link Double}s. * &lt;p&gt; * Feature is disabled by default, meaning that &quot;untyped&quot; floating * point numbers will by default be deserialized as {@link Double}s * (choice is for performance reason -- BigDecimals are slower than * Doubles). */" />
       <item value="/** * A qualifier value for the specified asynchronous operation(s). * &lt;p&gt;May be used to determine the target executor to be used when executing this * method, matching the qualifier value (or the bean name) of a specific * {@link java.util.concurrent.Executor Executor} or * {@link org.springframework.core.task.TaskExecutor TaskExecutor} * bean definition. * &lt;p&gt;When specified on a class level {@code @Async} annotation, indicates that the * given executor should be used for all methods within the class. Method level use * of {@code Async#value} always overrides any value set at the class level. * @since 3.1.2 */" />
@@ -50,12 +51,11 @@
       <item value="/** * Wraps the parameter object to {@link TemplateModel} interface(s). Simple types like numbers, strings, booleans * and dates will be wrapped into the corresponding {@code SimpleXxx} classes (like {@link SimpleNumber}). * {@link Map}-s, {@link List}-s, other {@link Collection}-s, arrays and {@link Iterator}-s will be wrapped into the * corresponding {@code SimpleXxx} or {@code DefaultXxxAdapter} classes (like {@link SimpleHash} or * {@link DefaultMapAdapter}), depending on {@link #getUseAdaptersForContainers()} and * {@link #getForceLegacyNonListCollections()}. After that, the wrapping is handled by * {@link #handleUnknownType(Object)}, so see more there. */" />
       <item value="performance" />
       <item value="prop" />
-      <item value="League" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
