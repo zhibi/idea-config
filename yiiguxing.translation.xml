@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the index within this string of the first occurrence of the * specified substring. * * &lt;p&gt;The returned index is the smallest value &lt;i&gt;k&lt;/i&gt; for which: * &lt;blockquote&gt;&lt;pre&gt; * this.startsWith(str, &lt;i&gt;k&lt;/i&gt;) * &lt;/pre&gt;&lt;/blockquote&gt; * If no such value of &lt;i&gt;k&lt;/i&gt; exists, then {@code -1} is returned. * * @param str the substring to search for. * @return the index of the first occurrence of the specified substring, * or {@code -1} if there is no such occurrence." />
       <item value="callback for publisher confirmations." />
       <item value="* Instantiate a class using its no-arg constructor and return the new instance * as the specified assignable type. * &lt;p&gt;Useful in cases where the type of the class to instantiate (clazz) is not * available, but the type desired (assignableTo) is known. * &lt;p&gt;Note that this method tries to set the constructor accessible if given a * non-accessible (that is, non-public) constructor. * @param clazz class to instantiate * @param assignableTo type that clazz must be assignableTo * @return the new instance * @throws BeanInstantiationException if the bean cannot be instantiated * @see Constructor#newInstance */ @SuppressWarnings(&quot;unchecked&quot;)" />
       <item value="* Instantiate a class using its no-arg constructor. * &lt;p&gt;Note that this method tries to set the constructor accessible * if given a non-accessible (that is, non-public) constructor. * @param clazz class to instantiate * @return the new instance * @throws BeanInstantiationException if the bean cannot be instantiated * @see Constructor#newInstance */" />
@@ -50,12 +51,11 @@
       <item value="/** * Feature that determines whether parser will allow use * of YAML comments, ones starting with '#' and continuing * until the end of the line. This commenting style is common * with scripting languages as well. *&lt;p&gt; * Since JSON specification does not mention comments as legal * construct, * this is a non-standard feature. As such, feature is * &lt;b&gt;disabled by default&lt;/b&gt; for parsers and must be * explicitly enabled." />
       <item value="* Feature that determines whether parser will allow use * of Java/C++ style comments (both '/'+'*' and * '//' varieties) within parsed content or not. *&lt;p&gt; * Since JSON specification does not mention comments as legal * construct, * this is a non-standard feature; however, in the wild * this is extensively used. As such, feature is * &lt;b&gt;disabled by default&lt;/b&gt; for parsers and must be * explicitly enabled." />
       <item value="* Feature that determines whether parser will automatically * close underlying input source that is NOT owned by the * parser. If disabled, calling application has to separately * close the underlying {@link InputStream} and {@link Reader} * instances used to create the parser. If enabled, parser * will handle closing, as long as parser itself gets closed: * this happens when end-of-input is encountered, or parser * is closed by a call to {@link JsonParser#close}. *&lt;p&gt; * Feature is enabled by default." />
-      <item value="has to be escaped using backslash to be included in name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
