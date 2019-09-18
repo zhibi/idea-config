@@ -2,7 +2,7 @@
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="apiUrl" value="tcp://10.0.75.0:2375" />
         <option name="pathMappings">
           <list />
         </option>
