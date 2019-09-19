@@ -42,9 +42,13 @@
           <option name="url" value="http://60.60.70.20/root/loan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhibi/learn-spring-boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\project-work" />
+    <option name="cloneParentDir" value="E:\project-learn" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
